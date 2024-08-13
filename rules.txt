@@ -1,0 +1,7 @@
+    - grid (10 x 20 squares)
+
+Rules:
+    - rotate shape to 90 deg.
+    - stops whenever it touches another shape/ end of main
+    - row deleting whenever row is full
+    - game is over when we cannot place a new shape
